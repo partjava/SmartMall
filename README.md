@@ -1,4 +1,4 @@
-# 📱 手机购买网站
+# 📱 纯个人期末作业
 
 基于 Vue 3 + Vue Router + Vuex + Element Plus 的手机电商前端项目。
 
